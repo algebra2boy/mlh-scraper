@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/url"
 	"os"
+	"regexp"
 
 	"github.com/gocolly/colly"
 )
@@ -38,8 +39,8 @@ func main() {
 
 		// <img src="" />
 		// get the inner child attributes of src
-		thumbnailUrl := e.ChildAttr("div.img-wrap img", "src")
-		logoUrl := e.ChildAttr("div.event-logo img", "src")
+		thumbnailUrl := e.ChildAttr("div.image-wrap img", "src") // /events/splashes
+		logoUrl := e.ChildAttr("div.event-logo img", "src")      // /events/logos
 
 		// get the text instead of the attributes
 		name := e.ChildText("h3.event-name")
@@ -47,12 +48,16 @@ func main() {
 		location := e.ChildText("div.event-location")
 		eventType := e.ChildText("div.event-hybrid-notes")
 
+		// need to remove the white space and new line in between the city and country
+		reg := regexp.MustCompile(`\s+`)                   // regular expression that matches any whitespace character
+		new_location := reg.ReplaceAllString(location, "") // replace whitespace character wtih empty string
+
 		hackathonEvent := HackathonEvent{
 			thumbnailUrl: thumbnailUrl,
 			logoUrl:      logoUrl,
 			name:         name,
 			date:         date,
-			location:     location,
+			location:     new_location,
 			eventType:    eventType,
 		}
 

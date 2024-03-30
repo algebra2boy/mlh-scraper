@@ -1,417 +1,209 @@
 thumbnailUrl,logoUrl,name,date,location,eventType
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/938/thumb/HackPrinceton-Logo-Square.png?1708964996,HackPrinceton,Mar 29th - 31st,"Princeton,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/907/thumb/event-icon.png?1706106939,Web3Apps,Mar 29th - 31st,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/926/thumb/bisonbytes_logo.png?1708459763,BisonBytes,Mar 30th - 31st,"Washington,
-          District of Columbia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/921/thumb/name.png?1709151067,DiamondHacks,Mar 30th - 31st,"Raleigh,
-          North Carolina",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/942/thumb/icon.png?1708433135,Global Hack Week: APIs,Apr 5th - 11th,"Everywhere,
-          Online",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/944/thumb/HackByte_Logo.png?1708552638,HackByte,Apr 5th - 7th,"Jabalpur,
-          Madhya Pradesh, India",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/980/thumb/marihacks-gradient.png?1709930401,MariHacks,Apr 5th - 6th,"Montreal,
-          Quebec",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/946/thumb/purple-logo.png?1708625507,SF Hacks 2024,Apr 5th - 7th,"San Francisco,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/996/thumb/1707003343955.jpg?1711558720,WildHacks,Apr 5th - 7th,"Evanston,
-          Illinois",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/984/thumb/WiNGHacks-Small-Logo.jpg?1709917543,WiNGHacks,Apr 5th - 7th,"Gainesville,
-          Florida",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/991/thumb/witty.PNG?1709931345,Wittyhacks 4.0,Apr 5th - 7th,"Indore,
-          Madhya Pradesh",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/995/thumb/Copy_of_thumbnail.png?1709852288,BlossomHack,Apr 6th - 7th,"Athens,
-          Ohio",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/932/thumb/2023_logo_for_mlh.png?1707518312,Hack Kosice,Apr 6th - 7th,"Kosice,
-          Slovakia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/001/thumb/LAH8Logo.png?1710341019,Los Altos Hacks VIII,Apr 6th - 7th,"Sunnyvale,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/009/thumb/1500x500.jpg?1710349743,MorganHacks,Apr 6th - 7th,"Baltimore,
-          Maryland",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/000/thumb/logo.png?1709653754,HackKU,Apr 12th - 14th,"Lawrence,
-          Kansas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/987/thumb/hoghacks-logo.png?1709353322,HogHacks,Apr 12th - 13th,"Fayetteville,
-          Arkansas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/999/thumb/Pickhacks2024_%281%29.png?1709586716,PickHacks 2024,Apr 12th - 14th,"Rolla,
-          Missouri",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/007/thumb/Vihaan_007_-_s2024_-_null_%281%29.png?1710332042,Vihaan 007,Apr 12th - 13th,"New Delhi,
-          India",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/008/thumb/Dragonhacks_logo.png?1710336243,DragonHacks 2024,Apr 13th - 14th,"Philadelphia,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/981/thumb/YDruoDy__400x400.jpg?1711558592,KleinHacks,Apr 13th - 14th,"Houston,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/988/thumb/9d430a5fa5430ec58ca00779b0a319813ce85eddfb628889122f420ee151713b.png?1711724072,UTA Datathon,Apr 13th - 14th,"Arlington,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/985/thumb/IMG_0968.jpg?1709360030,Bitcamp 2024,Apr 19th - 21st,"College Park,
-          Maryland",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/004/thumb/logo_%281%29.png?1709924025,Hackathon Troyano 2024,Apr 19th - 20th,"Querétaro,
-          Querétaro",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/998/thumb/logo_small_%282%29.png?1711574561,HackMHS,Apr 19th - 20th,"Short Hills,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/986/thumb/Untitled_design_%2815%29.png?1711734507,LA Hacks,Apr 19th - 21st,"Los Angeles,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/945/thumb/event-icon.png?1708606737,Web3Apps,Apr 19th - 21st,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/997/thumb/dh_logo-in-ime_bel.jpg?1709586514,DragonHack,Apr 20th - 21st,"Ljubljana,
-          Ljubljana",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/006/thumb/Hippo.png?1709587179,HackDartmouth IX,Apr 20th - 21st,"Hanover,
-          New Hampshire",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/012/thumb/tribehacks_%281%29.PNG?1711035288,TribeHacks,Apr 20th - 21st,"Williamsburg,
-          Virginia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/983/thumb/NpY6zpSx_400x400.jpg?1710967321,HackDavis 2024,Apr 27th - 28th,"Davis,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/017/thumb/EventLogo.png?1711735935,GDSCHACKS Guelph,May 3rd - 5th,"Guelph,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/947/thumb/HackUPC_2024_Logo.png?1709149987,HackUPC,May 3rd - 5th,"Barcelona,
-          Spain",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/941/thumb/icon.png?1708433031,Global Hack Week: Data,May 10th - 16th,"Everywhere,
-          Online",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/011/thumb/icon_%2813%29.png?1710778254,Global Hack Week: Web3,Jun 7th - 13th,"Everywhere,
-          Online",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/629/thumb/Event_Hero_Image.jpg?1688049273,TechTogether Online,Jul 14th - 16th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/630/thumb/Icon.jpg?1688049474,Hacks for Hackers,Jul 21st - 23rd,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/631/thumb/Icon_%281%29.png?1688049413,HackBattle: React vs Angular,Jul 28th - 30th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/652/thumb/icon_%283%29.png?1687803204,Global Hack Week: Data,Jul 31st - Aug 7th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/663/thumb/Event_Hero_Image.png?1688049610,TechTogether Online,Aug 4th - 6th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/657/thumb/Logo_100.png?1688131132,statusCode 0,Aug 12th - 13th,"Kolkata,
-          West Bengal",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/643/thumb/ht6-2023-logo.png?1687287907,Hack the 6ix,Aug 18th - 20th,"Toronto,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/662/thumb/Icon.png?1689607982,Web3Apps,Aug 25th - 27th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/676/thumb/Icon.jpg?1689663209,Hack the Classroom,Sep 1st - 3rd,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/711/thumb/rythmhacks_logo_mlh.png?1693238628,RythmHacks,Sep 1st - 3rd,"Waterloo, Ontario,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/653/thumb/icon_color-1_%282%29.png?1687803328,Global Hack Week: Web3,Sep 4th - 11th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/665/thumb/hd.png?1689689730,HackDuke: Code for Good,Sep 8th - 10th,"Durham,
-          North Carolina",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/636/thumb/MLH_Event_Logo_copy.png?1687269412,PennApps,Sep 8th - 10th,"Philadelphia,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/712/thumb/logo100x100_%281%29.png?1692037376,HackCMU,Sep 15th - 16th,"Pittsburgh,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/666/thumb/LogoHTN2023.png?1687877641,Hack the North,Sep 15th - 17th,"Waterloo,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/670/thumb/HopHacks-logo_2.0.png?1688652948,HopHacks,Sep 15th - 17th,"Baltimore ,
-          Maryland",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/713/thumb/Pitt_Challenge_100x100.jpg?1692037526,Pitt Challenge,Sep 15th - 17th,"Pittsburgh,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/641/thumb/ShellHacks_Logo.png?1687284285,ShellHacks,Sep 15th - 17th,"Miami,
-          Florida",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/677/thumb/Icon.jpg?1689692406,TechTogether Online,Sep 15th - 17th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/667/thumb/logo_%281%29.png?1687888462,VTHacks 11,Sep 15th - 17th,"Blacksburg,
-          Virginia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/635/thumb/HackSMU_Logo_100x100.png?1686945284,HackSMU,Sep 16th - 17th,"Dallas,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/714/thumb/Final_logo.png?1692038284,HackWesTX,Sep 16th - 17th,"Lubbock,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/644/thumb/Hackrice_Logo_%284__h__bg%29_%281%29.PNG?1693254867,HackRice,Sep 22nd - 24th,"Houston,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/715/thumb/Profile_Photo__1_.png?1692038310,TechNova,Sep 22nd - 24th,"Waterloo, Ontario,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/678/thumb/Icon.jpg?1689663330,TransportHacks,Sep 22nd - 24th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/669/thumb/MLHlogo_%282%29.png?1687889284,DivHacks 2023,Sep 23rd - 24th,"New York City,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/717/thumb/GirlHacks_2022_Logo.png?1692038985,GirlHacks,Sep 23rd - 24th,"Newark,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/718/thumb/Image.jpeg?1692039205,HackMTY,Sep 23rd - 24th,"Monterrey, Nuevo  León,
-          Mexico",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/645/thumb/hackuiowa-logo.png?1687290269,HACKUIOWA,Sep 23rd - 24th,"Iowa City,
-          Iowa",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/673/thumb/hackUMBC_backsplash_%281%29.png?1688400601,hackUMBC,Sep 23rd - 24th,"Baltimore,
-          Maryland",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/721/thumb/OwlHacks100.png?1692915730,Owlhacks,Sep 23rd - 24th,"Philadelphia,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/658/thumb/WhatsApp_Image_2023-06-28_at_6.26.44_PM.jpeg?1688130938,KU HackFest 2023,Sep 29th - Oct 1st,"Kathmandu,
-          Nepal",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/679/thumb/Icon.jpg?1689663382,Open Source Hackfest,Sep 29th - Oct 1st,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/720/thumb/Event_Logo_Square.png?1692811698,Opin Hacks,Sep 29th - Oct 1st,"Durg,
-          Chattisgarh, IN",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/749/thumb/6496dc7c45d9038358338450_Element_16-p-500.png?1695670376,IdeaHack! x Junction,Oct 5th - 6th,"Vallendar,
-          Germany",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/743/thumb/hackmorelos_100x100.png?1695748143,Hack Morelos 12th Editon,Oct 6th - 7th,"Cuernavaca,
-          Morelos, Mexico",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/675/thumb/KH-Event_Logo.png?1688649948,KnightHacks,Oct 6th - 8th,"Orlando,
-          Florida",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/722/thumb/event-icon.jpg?1694602259,TechTogether Online,Oct 6th - 8th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/734/thumb/Change_the_colors___Add_your_logo!_%2816%29.png?1694611233,HackRU,Oct 7th - 8th,"New Brunswick,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/634/thumb/HackUTA_Logo.jpg?1686945116,HackUTA 2023,Oct 7th - 8th,"Arlington,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/735/thumb/LOGO1__1__%282%29.png?1695741120,The Golden Hack 5.0,Oct 7th - 8th,"Waterloo,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/723/thumb/Datahackfest_icon.jpg?1692982807,Data Hackfest,Oct 13th - 15th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/642/thumb/HackGTXLogo-small.jpg?1687285675,HackGT X,Oct 13th - 15th,"Atlanta,
-          Georgia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/729/thumb/Change_the_colors___Add_your_logo___3_.png?1694198264,Hack the Valley,Oct 13th - 15th,"Scarborough,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/736/thumb/Untitled_design__17_.png?1694611688,UNT NSBEHack,Oct 13th - 14th,"Denton,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/637/thumb/dh_logo.png?1687272218,DubHacks,Oct 14th - 15th,"Seattle,
-          Washington",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/647/thumb/logo_%281%29.png?1687367416,Hack WashU,Oct 14th - 15th,"St. Louis,
-          Missouri",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/730/thumb/icon.png?1694528832,Global Hack Week: Open Source,Oct 16th - 23rd,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/710/thumb/logo_100.png?1690921034,HackHarvard,Oct 20th - 22nd,"Cambridge,
-          Massachusetts",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/725/thumb/Ihack-Vertical-Logo-FullColor-Small.png?1692984937,I-Hack,Oct 20th - 21st,"Rexburg,
-          Idaho",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/761/thumb/Icon.png?1696351646,All In Hackathon,Oct 21st - 22nd,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/709/thumb/Plain_Black_Official_HD2_Logo_100x100px.png?1689972263,Hack Dearborn,Oct 21st - 22nd,"Dearborn,
-          Michigan",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/737/thumb/Smaller_Logo.PNG?1695649129,HackPSU,Oct 21st - 22nd,"State College,
-          PA",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/649/thumb/mlh_logo_%281%29.png?1693316066,HackTX 2023,Oct 21st - 22nd,"Austin,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/726/thumb/logo_MLH_square_background-01.png?1693256237,Technica Hacks,Oct 21st - 22nd,"College Park,
-          Maryland","Hybrid, In-Person Focus"
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/674/thumb/Hackanile_Cal_Hacks.png?1688401253,Cal Hacks,Oct 27th - 29th,"Berkeley,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/738/thumb/HackNC_Logo.jpg?1694612459,HackNC 2023,Oct 27th - 29th,"Chapel Hill,
-          NC",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/724/thumb/event-icon.jpg?1695915874,Web3Apps,Oct 27th - 29th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/660/thumb/WhatsApp_Image_2023-09-01_at_3.39.27_PM.jpeg?1693563115,GreatUniHack 2023,Oct 28th - 29th,"Manchester,
-          Lancashire",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/655/thumb/20230628_185006_0000.png?1687959383,Hack The Mountains 4.O,Oct 28th - 29th,"Gurgaon,
-          Haryana, IN",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/748/thumb/Datathon23_Logo_100x100.png?1695648882,TAMU Datathon,Oct 28th - 29th,"College Station,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/739/thumb/VHXLogo.png?1696423223,VandyHacks,Oct 28th - 29th,"Nashville,
-          Tennessee",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/807/thumb/LOGO.png?1698333794,REVA HACK 2023,Nov 2nd - 4th,"Bengaluru,
-          Karnataka, IN",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/639/thumb/DandyHacks_logo.png?1687276483,DandyHacks,Nov 3rd - 5th,"Rochester,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/758/thumb/hackkstate-logo-100x100.png?1696344380,Hack K-State,Nov 3rd - 5th,"Manhattan,
-          Kansas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/763/thumb/fountainGreen-2022.png?1696967895,YCP Hacks,Nov 3rd - 5th,"York,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/799/thumb/background.png?1696621256,DurHack 2023,Nov 4th - 5th,"Durham,
-          County Durham",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/744/thumb/6.0.png?1695138659,hackCBS,Nov 4th - 5th,"Delhi,
-          India",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/753/thumb/HackNJIT2023_logo_main.png?1698336061,HackNJIT,Nov 4th - 5th,"Newark,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/638/thumb/hackrpi_logo_%28100x100%29.png?1687276185,HackRPI,Nov 4th - 5th,"Troy,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/762/thumb/Logo_Remix__Color__1.png?1696357693,HackSC-X,Nov 4th - 5th,"Los Angeles,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/800/thumb/background.png?1696621287,Hack-the-Heights,Nov 4th - 5th,"Newton,
-          Massachusetts",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/719/thumb/Logo-Dark.png?1692048909,HackUTD,Nov 4th - 5th,"Dallas,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/795/thumb/make-a-ton-mlh-icon.png?1696607979,Make-a-Ton 6.0,Nov 4th - 5th,"Kochi,
-          Kerala",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/750/thumb/100px_square_logo.jpg?1695993460,MakeUC,Nov 4th - 5th,"Cincinnati,
-          Ohio",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/672/thumb/NewHacks_Logo.png?1688399919,NewHacks,Nov 4th - 5th,"Toronto,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/752/thumb/Screenshot_2023-10-26_at_12.03.13_PM.png?1698336225,sunhacks,Nov 4th - 5th,"Tempe,
-          Arizona",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/764/thumb/f23_logo_button.00e991c1ce67.png?1698363601,UB Hacking,Nov 4th - 5th,"Buffalo,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/659/thumb/WHACK_logo_100_100__1_.png?1698459135,WHACK,Nov 4th - 5th,"Wellesley,
-          Massachusetts",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/731/thumb/icon.png?1694528975,Global Hack Week: Career,Nov 10th - 16th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/755/thumb/HackPrinceton-Logo-Square.png?1696307869,HackPrinceton,Nov 10th - 12th,"Princeton,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/756/thumb/Logo_-_Black_100x100.png?1698459004,HackUMass,Nov 10th - 12th,"Amherst,
-          Massachusetts",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/806/thumb/MLH_HackSheffield8_Logo.png?1698329573,Hackathon Sheffield 8,Nov 11th - 12th,"Sheffield,
-          South Yorkshire, UK",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/757/thumb/Untitled_design_%2817%29.png?1699480888,HackUNT,Nov 11th - 12th,"Denton,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/759/thumb/Untitled_design_%2816%29.png?1696344716,MadHacks,Nov 11th - 12th,"Madison,
-          Wisconsin",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/760/thumb/image1.jpeg?1696963674,AI ATL,Nov 17th - 19th,"Atlanta,
-          Georgia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/805/thumb/LOGO_100x100.png?1697802744,UniHack 5,Nov 17th - 19th,"Timișoara,
-          județul Timiș, Romania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/664/thumb/unnamed.jpg?1695648262,BostonHacks,Nov 18th - 19th,"Boston,
-          Massachusetts",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/745/thumb/100x100_Logo.png?1697210316,MHacks,Nov 18th - 19th,"Ann Arbor,
-          Michigan",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/661/thumb/Hack_Western_10_-_f2023_-_Event_Vector_Logo_%28AI__SVG__EPS__or_PSD%29.svg_xml.png?1687956689,Hack Western 10,Nov 24th - 26th,"London,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/742/thumb/event-icon.jpg?1696596693,Web3Apps,Nov 24th - 26th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/808/thumb/HackSussex-Circle-White-Trans_%28Custom%29.png?1698331642,HackSussex GameJam,Nov 25th - 26th,"Brighton ,
-          East Sussex",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/732/thumb/icon.png?1694529225,Global Hack Week: Cloud,Dec 4th - 11th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/840/thumb/event-icon.jpg?1701787382,All In Open Source Hackathon,Dec 16th - 17th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/804/thumb/event-icon.jpg?1697732691,Web3Apps,Dec 29th - 31st,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/815/thumb/hero-without-BG_%282%29.png?1701900234,Global Hack Week: Beginners,Jan 5th - 11th,"Everywhere,
-          Online",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/837/thumb/Bre%CC%81beufHx_logo.png?1701468982,BrébeufHx 7.0,Jan 12th - 13th,"Montreal,
-          Quebec",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/818/thumb/logo_glitch.png?1701661277,SB Hacks,Jan 12th - 14th,"Goleta,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/827/thumb/shehacks_logo.png?1702274910,SheHacks+,Jan 12th - 14th,"London,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/838/thumb/DeltaHacksXlogo.png?1701469018,DeltaHacks,Jan 13th - 14th,"Hamilton, Ontario,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/809/thumb/hackfreelogo.png?1698334699,HackFRee,Jan 13th - 14th,"Englishtown,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/823/thumb/main_logo_%282%29.png?1701459210,BoilerMake XI,Jan 19th - 21st,"West Lafayette,
-          Indiana",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/839/thumb/CruzHacks_2024_Logo.jpeg?1701708987,CruzHacks,Jan 19th - 21st,"Santa Cruz,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/836/thumb/LOGO_%281%29.png?1701468933,Hackville 2024,Jan 19th - 21st,"Mississsauga,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/820/thumb/Logo_Brick.png?1701662390,Rice Datathon 2024,Jan 19th - 21st,"Houston,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/835/thumb/Logo-100x100-color.png?1701469036,Techacks 4.0,Jan 19th - 21st,"Rajpura,
-          Punjab",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/875/thumb/event-icon.png?1703156664,Web3Apps,Jan 19th - 21st,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/833/thumb/Screenshot_2023-12-01_at_5.13.20_PM.png?1701468868,ConUHacks VIII,Jan 20th - 21st,"Montreal,
-          Quebec",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/834/thumb/frost_hacks_vector_png_logo.png?1701709562,Frost Hacks,Jan 20th - 21st,"Hyderabad,
-          India",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/633/thumb/nwHacks_2024_event_logo_square.png?1701402731,nwHacks,Jan 20th - 21st,"Vancouver,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/832/thumb/roselogo.png?1701469066,Rose Hack,Jan 20th - 21st,"Riverside,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/831/thumb/Copy_of_UTRA_Logo_Chrome.png?1701709475,UTRA Hacks,Jan 20th - 21st,"Toronto,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/648/thumb/hoyadog.png?1687371753,HoyaHacks,Jan 26th - 28th,"Washington,
-          District of Columbia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/830/thumb/UofTHacks_-_s2024_-_Event_Logo_Square_%28100px_by_100px%29.png?1701709177,UofTHacks,Jan 26th - 28th,"Toronto,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/826/thumb/Gunnhacks_logo_%282%29.png?1701459888,Gunnhacks 10.0,Jan 27th - 28th,"Palo Alto,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/825/thumb/hackbi_logo_%281%29.png?1701459745,Hack BI VII,Jan 27th - 28th,"Alexandria,
-          Virginia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/819/thumb/hacktamslogo2024temp.jpeg?1701835141,hackTAMS,Jan 27th - 28th,"Denton,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/829/thumb/icon_%281%29.png?1701462327,McHacks,Jan 27th - 28th,"Montreal,
-          Quebec",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/817/thumb/favicon.png?1701458544,PEC Hacks,Jan 27th - 28th,"Chennai,
-          Tamil Nadu",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/906/thumb/Screenshot_2024-01-22_at_10.42.06_AM.png?1705938187,Royal Hackaway v7,Jan 27th - 28th,"London,
-          United Kingdom",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/811/thumb/SH9-Logo-Square.png?1700065079,SpartaHack 9,Jan 27th - 28th,"East Lansing,
-          Michigan",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/824/thumb/tamuhack_icon.png?1701459424,TAMUhack,Jan 27th - 28th,"College Station,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/905/thumb/RTC_BlackWingsHacks_Logo.png?1705679542,Black Wings Hacks 2024,Feb 2nd - 4th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/810/thumb/Hack_Davidson_logo_Robotic_%281%29_%281%29.png?1699563047,Hack@Davidson,Feb 2nd - 4th,"Davidson,
-          North Carolina",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/881/thumb/QHacksLogo_WhiteBG_%281%29.jpg?1703581880,QHacks,Feb 2nd - 4th,"Kingston,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/888/thumb/Screenshot_2024-01-30_at_9.48.28_AM.png?1706626374,QWER Hacks 2024,Feb 2nd - 4th,"Los Angeles,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/878/thumb/Change_the_colors___Add_your_logo!_%2854%29.png?1703581605,Auburn Hacks,Feb 3rd - 4th,"Auburn,
-          Alabama",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/877/thumb/MLH_Event_Logo.png?1703575338,Diversion 2K24,Feb 3rd - 4th,"Kolkata,
-          West Bengal",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/814/thumb/MLH_Logo.png?1700576338,Hack@Brown,Feb 3rd - 4th,"Providence,
-          Rhode Island",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/894/thumb/Screenshot_2024-01-12_at_5.31.13_PM.png?1705098778,Hack_NCState 2024,Feb 3rd - 4th,"Raleigh,
-          North Carolina",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/903/thumb/HackViolet-Logo-Background-Transparent__2_.png?1704811842,HackViolet,Feb 3rd - 4th,"Blacksburg,
-          Virginia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/884/thumb/miniature_carree_100x100_2.png?1703582458,PolyHacks,Feb 3rd - 4th,"Montreal,
-          Quebec",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/816/thumb/icon_%288%29.png?1701193756,Global Hack Week: AI/ML,Feb 9th - 15th,"Everywhere,
-          Online",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/656/thumb/Hacklytics_2024_Logo.png?1702607898,Hacklytics,Feb 9th - 11th,"Atlanta,
-          Georgia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/654/thumb/WhatsApp_Image_2023-06-28_at_6.38.02_PM.jpeg?1687957950,Hack This Fall 4.0,Feb 9th - 11th,"Gandhinagar,
-          Gujarat",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/885/thumb/SBUHacks_Logo-01.png?1705126042,SBUHacks,Feb 9th - 11th,"Stony Brook,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/651/thumb/Event_Logo_Square.png?1687788980,UGAHacks 9,Feb 9th - 11th,"Athens,
-          Georgia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/650/thumb/logo.png?1704816210,Hacklahoma,Feb 10th - 11th,"Norman,
-          Oklahoma",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/895/thumb/deerhacks-deer_100x100.png?1705098576,DeerHacks III,Feb 16th - 18th,"Mississauga,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/900/thumb/EH_2024_Logo_%28White_Background%29.PNG?1706023105,ElleHacks 2024,Feb 16th - 18th,"Toronto,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/876/thumb/event-icon.png?1703157543,Web3Apps,Feb 16th - 18th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/879/thumb/cch24_simple_emblem_d2_%282%29.png?1703581742,CrimsonCode 2024,Feb 17th - 18th,"Pullman,
-          Washington",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/887/thumb/Logo_Sticker_2024__2_.png?1703777380,Hack(H)er413,Feb 17th - 18th,"Amherst,
-          Massachusetts",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/893/thumb/hacktcnj24logo.png?1706123844,Hack TCNJ,Feb 17th - 18th,"Ewing,
-          New Jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/890/thumb/Untitled_design.png?1704813769,MakeUofT 2024,Feb 17th - 18th,"Toronto,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/901/thumb/HackBeanpot_-_s2024_-_Event_Logo_Square_%28100px_by_100px%29.png?1708445895,HackBeanpot,Feb 23rd - 25th,"Boston,
-          MA",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/902/thumb/MLH_100x100.png?1706124027,BrickHack X,Feb 24th - 25th,"Rochester,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/892/thumb/nsbehacks_2024__logo.png?1705097926,NSBEHacks 2024,Feb 24th - 25th,"Toronto,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/883/thumb/100x100.png?1703582060,Pearl Hacks,Feb 24th - 25th,"Chapel Hill,
-          North Carolina",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/897/thumb/Logo_%281%29.jpg?1705098269,RevolutionUC,Feb 24th - 25th,"Cincinnati,
-          Ohio",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/880/thumb/MLH_web_logo.png?1703795359,RowdyHacks,Feb 24th - 25th,"San Antonio,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/916/thumb/CEWIT-Revised_4C_CMYK_OUTLINED.png?1707107892,Hack@CEWIT,Mar 1st - 3rd,"Stony Brook,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/925/thumb/logo.png?1707247625,uOttaHack,Mar 1st - 3rd,"Ottawa,
-          Ontario",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/929/thumb/athenalogo_1.png?1708104159,AthenaHacks,Mar 2nd - 3rd,"Los Angeles,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/918/thumb/CUhackit_RGB_Full_Bug_Color_PREFERRED__1_.png?1707108200,CUhackit 2024,Mar 2nd - 3rd,"Clemson,
-          South Carolina",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/910/thumb/HNlogo_black.png?1707107353,HackNITR 5.0,Mar 2nd - 3rd,"Rourkela,
-          Odisha",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/917/thumb/htblogo.png?1707108037,HackTheBurgh,Mar 2nd - 3rd,"Edinburgh,
-          UK",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/909/thumb/Logo_%284%29.png?1707107302,HenHacks,Mar 2nd - 3rd,"Newark,
-          Delaware",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/912/thumb/Screenshot_2024-02-04_233204.png?1707107551,InnovateHER Hackathon,Mar 2nd - 3rd,"West Lafayette,
-          Indiana",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/908/thumb/MLH_logo.png?1706123702,WiCHacks,Mar 2nd - 3rd,"Rochester,
-          New York",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/927/thumb/spec_logo-Da0CixX7.png?1708561051,Electrothon: Sorcerers of cipher,Mar 8th - 10th,"Hamirpur,
-          Himachal Pradesh",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/841/thumb/icon_%289%29.png?1702306299,Global Hack Week: Games,Mar 8th - 14th,"Everywhere,
-          Online",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/922/thumb/hmIXlogo.png?1708561250,HackMerced IX,Mar 8th - 10th,"Merced,
-          California",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/943/thumb/event-icon.jpg?1708439756,All In Open Source Hackathon,Mar 9th - 10th,"Everywhere,
-          Worldwide",Digital Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/671/thumb/cmd-f_2024_Event_Logo_Square.png?1688045252,cmd-f,Mar 9th - 10th,"Vancouver,
-          Canada",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/904/thumb/cCmN1NTx_400x400.jpg?1705527107,GrizzHacks,Mar 9th - 10th,"Rochester Hills,
-          Michigan",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/914/thumb/MicrosoftTeams-image_%281%29.png?1708542832,HackPSU,Mar 16th - 17th,"State College,
-          Pennsylvania",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/940/thumb/FHlogo_%281%29.png?1708115467,FormulaHacks,Mar 22nd - 23rd,"Austin,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/919/thumb/6543f13d9cb240029d6292d8_logo-transparant-p-500.png?1707108319,HackTheChains,Mar 22nd - 24th,"Dallas,
-          Texas",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/005/thumb/Screenshot_2024-03-18_at_10.29.56%E2%80%AFAM.png?1710772252,HackRU Spring,Mar 23rd - 24th,"Piscataway,
-          New jersey",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/915/thumb/owl-outline-color_-_Copy.png?1709229875,HooHacks,Mar 23rd - 24th,"Charlottesville,
-          Virginia",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/911/thumb/logo-large.png?1707505931,Uncommon Hacks,Mar 23rd - 24th,"Chicago,
-          Illinois",In-Person Only
-,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/632/thumb/23_24LogoWYear.png?1706723287,WEHack,Mar 23rd - 24th,"Dallas,
-          Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/938/thumb/HackPrinceton-Background.png?1708964997,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/938/thumb/HackPrinceton-Logo-Square.png?1708964996,HackPrinceton,Mar 29th - 31st,"Princeton,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/907/thumb/devpost-thumbnail.png?1706106940,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/907/thumb/event-icon.png?1706106939,Web3Apps,Mar 29th - 31st,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/926/thumb/bison_bytes-2.jpg?1708462156,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/926/thumb/bisonbytes_logo.png?1708459763,BisonBytes,Mar 30th - 31st,"Washington,DistrictofColumbia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/921/thumb/name.png?1709151067,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/921/thumb/name.png?1709151067,DiamondHacks,Mar 30th - 31st,"Raleigh,NorthCarolina",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/942/thumb/IG.jpg?1708433135,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/942/thumb/icon.png?1708433135,Global Hack Week: APIs,Apr 5th - 11th,"Everywhere,Online",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/944/thumb/HackByte_Backsplash.png?1708552638,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/944/thumb/HackByte_Logo.png?1708552638,HackByte,Apr 5th - 7th,"Jabalpur,MadhyaPradesh,India",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/980/thumb/marihacks-gradient.png?1709930402,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/980/thumb/marihacks-gradient.png?1709930401,MariHacks,Apr 5th - 6th,"Montreal,Quebec",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/946/thumb/purple-logo.png?1708625508,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/946/thumb/purple-logo.png?1708625507,SF Hacks 2024,Apr 5th - 7th,"SanFrancisco,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/996/thumb/1707003343955.jpg?1711558720,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/996/thumb/1707003343955.jpg?1711558720,WildHacks,Apr 5th - 7th,"Evanston,Illinois",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/984/thumb/WiNGHacks-Large-Logo.png?1709917544,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/984/thumb/WiNGHacks-Small-Logo.jpg?1709917543,WiNGHacks,Apr 5th - 7th,"Gainesville,Florida",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/991/thumb/witty.PNG?1709931346,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/991/thumb/witty.PNG?1709931345,Wittyhacks 4.0,Apr 5th - 7th,"Indore,MadhyaPradesh",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/995/thumb/Copy_of_banner.png?1709852289,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/995/thumb/Copy_of_thumbnail.png?1709852288,BlossomHack,Apr 6th - 7th,"Athens,Ohio",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/932/thumb/hk24.banner_%282%29.png?1707768746,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/932/thumb/2023_logo_for_mlh.png?1707518312,Hack Kosice,Apr 6th - 7th,"Kosice,Slovakia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/001/thumb/LosAltosHacks-Square.png?1710341019,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/001/thumb/LAH8Logo.png?1710341019,Los Altos Hacks VIII,Apr 6th - 7th,"Sunnyvale,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/009/thumb/1500x500.jpg?1710349743,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/009/thumb/1500x500.jpg?1710349743,MorganHacks,Apr 6th - 7th,"Baltimore,Maryland",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/000/thumb/backsplash.png?1709653754,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/000/thumb/logo.png?1709653754,HackKU,Apr 12th - 14th,"Lawrence,Kansas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/987/thumb/hoghacks-logo-background.png?1709353323,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/987/thumb/hoghacks-logo.png?1709353322,HogHacks,Apr 12th - 13th,"Fayetteville,Arkansas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/999/thumb/Pickhacks2024_%281%29.png?1709586717,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/999/thumb/Pickhacks2024_%281%29.png?1709586716,PickHacks 2024,Apr 12th - 14th,"Rolla,Missouri",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/007/thumb/Vihaan_007_-_s2024_-_null.png?1710332042,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/007/thumb/Vihaan_007_-_s2024_-_null_%281%29.png?1710332042,Vihaan 007,Apr 12th - 13th,"NewDelhi,India",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/008/thumb/Dragonhacks_logo.png?1710336244,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/008/thumb/Dragonhacks_logo.png?1710336243,DragonHacks 2024,Apr 13th - 14th,"Philadelphia,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/981/thumb/YDruoDy__400x400.jpg?1711558593,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/981/thumb/YDruoDy__400x400.jpg?1711558592,KleinHacks,Apr 13th - 14th,"Houston,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/988/thumb/9d430a5fa5430ec58ca00779b0a319813ce85eddfb628889122f420ee151713b.png?1711724073,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/988/thumb/9d430a5fa5430ec58ca00779b0a319813ce85eddfb628889122f420ee151713b.png?1711724072,UTA Datathon,Apr 13th - 14th,"Arlington,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/985/thumb/IMG_0968.jpg?1709360030,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/985/thumb/IMG_0968.jpg?1709360030,Bitcamp 2024,Apr 19th - 21st,"CollegePark,Maryland",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/004/thumb/backsplash_hack-fif.png?1709924025,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/004/thumb/logo_%281%29.png?1709924025,Hackathon Troyano 2024,Apr 19th - 20th,"Querétaro,Querétaro",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/998/thumb/logo_small_%282%29.png?1711574564,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/998/thumb/logo_small_%282%29.png?1711574561,HackMHS,Apr 19th - 20th,"ShortHills,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/986/thumb/Untitled_design_%2817%29.png?1711734555,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/986/thumb/Untitled_design_%2815%29.png?1711734507,LA Hacks,Apr 19th - 21st,"LosAngeles,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/945/thumb/social-instagram.png?1708606737,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/945/thumb/event-icon.png?1708606737,Web3Apps,Apr 19th - 21st,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/997/thumb/dh_logo-in-ime_bel.jpg?1709586516,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/997/thumb/dh_logo-in-ime_bel.jpg?1709586514,DragonHack,Apr 20th - 21st,"Ljubljana,Ljubljana",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/006/thumb/Hippo.png?1709587179,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/006/thumb/Hippo.png?1709587179,HackDartmouth IX,Apr 20th - 21st,"Hanover,NewHampshire",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/012/thumb/tribehacks_%281%29.PNG?1711035289,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/012/thumb/tribehacks_%281%29.PNG?1711035288,TribeHacks,Apr 20th - 21st,"Williamsburg,Virginia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/983/thumb/NpY6zpSx_400x400.jpg?1710967321,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/983/thumb/NpY6zpSx_400x400.jpg?1710967321,HackDavis 2024,Apr 27th - 28th,"Davis,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/017/thumb/EventBacksplash.png?1711735936,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/017/thumb/EventLogo.png?1711735935,GDSCHACKS Guelph,May 3rd - 5th,"Guelph,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/947/thumb/HackUPC_2024_Background.png?1709149987,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/947/thumb/HackUPC_2024_Logo.png?1709149987,HackUPC,May 3rd - 5th,"Barcelona,Spain",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/941/thumb/IG.jpg?1708433032,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/941/thumb/icon.png?1708433031,Global Hack Week: Data,May 10th - 16th,"Everywhere,Online",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/011/thumb/IG_%2811%29.jpg?1710778254,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/011/thumb/icon_%2813%29.png?1710778254,Global Hack Week: Web3,Jun 7th - 13th,"Everywhere,Online",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/629/thumb/Devpost_Thumbnail.jpg?1688049274,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/629/thumb/Event_Hero_Image.jpg?1688049273,TechTogether Online,Jul 14th - 16th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/630/thumb/Social_Instagram.jpg?1688049474,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/630/thumb/Icon.jpg?1688049474,Hacks for Hackers,Jul 21st - 23rd,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/631/thumb/Social_Instagram.png?1688049413,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/631/thumb/Icon_%281%29.png?1688049413,HackBattle: React vs Angular,Jul 28th - 30th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/652/thumb/Aug-generic_IG.png?1687803206,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/652/thumb/icon_%283%29.png?1687803204,Global Hack Week: Data,Jul 31st - Aug 7th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/663/thumb/Social_Instagram_%281%29.png?1688049610,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/663/thumb/Event_Hero_Image.png?1688049610,TechTogether Online,Aug 4th - 6th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/657/thumb/Backsplash_300.png?1688131132,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/657/thumb/Logo_100.png?1688131132,statusCode 0,Aug 12th - 13th,"Kolkata,WestBengal",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/643/thumb/ht6-2023-backsplash.png?1687287907,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/643/thumb/ht6-2023-logo.png?1687287907,Hack the 6ix,Aug 18th - 20th,"Toronto,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/662/thumb/Event_Hero_Image.png?1689607983,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/662/thumb/Icon.png?1689607982,Web3Apps,Aug 25th - 27th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/676/thumb/Event_Hero_Image.jpg?1689663210,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/676/thumb/Icon.jpg?1689663209,Hack the Classroom,Sep 1st - 3rd,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/711/thumb/MLH_banner_v2_%281%29.png?1693238629,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/711/thumb/rythmhacks_logo_mlh.png?1693238628,RythmHacks,Sep 1st - 3rd,"Waterloo,Ontario,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/653/thumb/Sept-generic_IG.png?1687803329,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/653/thumb/icon_color-1_%282%29.png?1687803328,Global Hack Week: Web3,Sep 4th - 11th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/665/thumb/Frame_30.png?1689689730,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/665/thumb/hd.png?1689689730,HackDuke: Code for Good,Sep 8th - 10th,"Durham,NorthCarolina",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/636/thumb/Backsplash__1_.png?1687269412,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/636/thumb/MLH_Event_Logo_copy.png?1687269412,PennApps,Sep 8th - 10th,"Philadelphia,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/712/thumb/backsplash300x300_%281%29.png?1692037377,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/712/thumb/logo100x100_%281%29.png?1692037376,HackCMU,Sep 15th - 16th,"Pittsburgh,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/666/thumb/Banner_-_SquareHTN2023.png?1687877641,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/666/thumb/LogoHTN2023.png?1687877641,Hack the North,Sep 15th - 17th,"Waterloo,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/670/thumb/Hophacks-backsplash_2.0.png?1688652948,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/670/thumb/HopHacks-logo_2.0.png?1688652948,HopHacks,Sep 15th - 17th,"Baltimore,Maryland",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/713/thumb/Pitt_Challenge_Background_300x300.jpg?1692037526,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/713/thumb/Pitt_Challenge_100x100.jpg?1692037526,Pitt Challenge,Sep 15th - 17th,"Pittsburgh,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/641/thumb/Backsplash_%283%29.png?1687284286,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/641/thumb/ShellHacks_Logo.png?1687284285,ShellHacks,Sep 15th - 17th,"Miami,Florida",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/677/thumb/Event_Hero_Image.jpg?1689692406,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/677/thumb/Icon.jpg?1689692406,TechTogether Online,Sep 15th - 17th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/667/thumb/backsplash.png?1687888462,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/667/thumb/logo_%281%29.png?1687888462,VTHacks 11,Sep 15th - 17th,"Blacksburg,Virginia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/635/thumb/BackSplash_300x300.png?1686945285,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/635/thumb/HackSMU_Logo_100x100.png?1686945284,HackSMU,Sep 16th - 17th,"Dallas,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/714/thumb/HackWesTX-Background.png?1692038284,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/714/thumb/Final_logo.png?1692038284,HackWesTX,Sep 16th - 17th,"Lubbock,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/644/thumb/Hackrice_Logo_%281__full__colored__bg%29_%281%29.png?1693254995,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/644/thumb/Hackrice_Logo_%284__h__bg%29_%281%29.PNG?1693254867,HackRice,Sep 22nd - 24th,"Houston,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/715/thumb/MLH_Background.png?1692038312,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/715/thumb/Profile_Photo__1_.png?1692038310,TechNova,Sep 22nd - 24th,"Waterloo,Ontario,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/678/thumb/Event_Hero_Image.jpg?1689663330,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/678/thumb/Icon.jpg?1689663330,TransportHacks,Sep 22nd - 24th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/669/thumb/MLHbacksplasj_%281%29.png?1687889284,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/669/thumb/MLHlogo_%282%29.png?1687889284,DivHacks 2023,Sep 23rd - 24th,"NewYorkCity,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/717/thumb/NJIT.jpg?1692038985,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/717/thumb/GirlHacks_2022_Logo.png?1692038985,GirlHacks,Sep 23rd - 24th,"Newark,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/718/thumb/HM_back.jpg?1692039206,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/718/thumb/Image.jpeg?1692039205,HackMTY,Sep 23rd - 24th,"Monterrey,NuevoLeón,Mexico",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/645/thumb/hacuiowa_bg.png?1687290270,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/645/thumb/hackuiowa-logo.png?1687290269,HACKUIOWA,Sep 23rd - 24th,"IowaCity,Iowa",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/673/thumb/hackUMBC_backsplash_%281%29.png?1688400602,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/673/thumb/hackUMBC_backsplash_%281%29.png?1688400601,hackUMBC,Sep 23rd - 24th,"Baltimore,Maryland",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/721/thumb/OwlHacksBackSplash.png?1692915730,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/721/thumb/OwlHacks100.png?1692915730,Owlhacks,Sep 23rd - 24th,"Philadelphia,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/658/thumb/WhatsApp_Image_2023-06-28_at_6.26.54_PM.jpeg?1688130938,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/658/thumb/WhatsApp_Image_2023-06-28_at_6.26.44_PM.jpeg?1688130938,KU HackFest 2023,Sep 29th - Oct 1st,"Kathmandu,Nepal",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/679/thumb/Event_Hero_Image.jpg?1689663383,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/679/thumb/Icon.jpg?1689663382,Open Source Hackfest,Sep 29th - Oct 1st,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/720/thumb/Event_Background.png?1692811699,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/720/thumb/Event_Logo_Square.png?1692811698,Opin Hacks,Sep 29th - Oct 1st,"Durg,Chattisgarh,IN",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/749/thumb/6496dc7c45d9038358338450_Element_16-p-500.png?1695670377,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/749/thumb/6496dc7c45d9038358338450_Element_16-p-500.png?1695670376,IdeaHack! x Junction,Oct 5th - 6th,"Vallendar,Germany",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/743/thumb/hackmorelos_300x300.png?1695748143,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/743/thumb/hackmorelos_100x100.png?1695748143,Hack Morelos 12th Editon,Oct 6th - 7th,"Cuernavaca,Morelos,Mexico",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/675/thumb/Event-Background.png?1688649948,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/675/thumb/KH-Event_Logo.png?1688649948,KnightHacks,Oct 6th - 8th,"Orlando,Florida",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/722/thumb/social-instagram.jpg?1694602275,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/722/thumb/event-icon.jpg?1694602259,TechTogether Online,Oct 6th - 8th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/734/thumb/Change_the_colors___Add_your_logo!_%2816%29.png?1694611233,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/734/thumb/Change_the_colors___Add_your_logo!_%2816%29.png?1694611233,HackRU,Oct 7th - 8th,"NewBrunswick,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/634/thumb/HackUTA_backsplash.jpg?1686945116,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/634/thumb/HackUTA_Logo.jpg?1686945116,HackUTA 2023,Oct 7th - 8th,"Arlington,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/735/thumb/IMG_7083_%282%29.PNG?1695741971,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/735/thumb/LOGO1__1__%282%29.png?1695741120,The Golden Hack 5.0,Oct 7th - 8th,"Waterloo,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/723/thumb/Event_Hero_Image.jpg?1692982807,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/723/thumb/Datahackfest_icon.jpg?1692982807,Data Hackfest,Oct 13th - 15th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/642/thumb/HackGTXBacksplash-small.jpg?1687285675,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/642/thumb/HackGTXLogo-small.jpg?1687285675,HackGT X,Oct 13th - 15th,"Atlanta,Georgia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/729/thumb/Change_the_colors___Add_your_logo___2_.png?1694198265,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/729/thumb/Change_the_colors___Add_your_logo___3_.png?1694198264,Hack the Valley,Oct 13th - 15th,"Scarborough,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/736/thumb/NSBE_HACK_LOGO.png?1694611688,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/736/thumb/Untitled_design__17_.png?1694611688,UNT NSBEHack,Oct 13th - 14th,"Denton,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/637/thumb/dh_backsplash.png?1687272219,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/637/thumb/dh_logo.png?1687272218,DubHacks,Oct 14th - 15th,"Seattle,Washington",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/647/thumb/backsplash__1__%281%29.png?1687367417,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/647/thumb/logo_%281%29.png?1687367416,Hack WashU,Oct 14th - 15th,"St.Louis,Missouri",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/730/thumb/Oct-generic_IG.png?1694528835,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/730/thumb/icon.png?1694528832,Global Hack Week: Open Source,Oct 16th - 23rd,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/710/thumb/HH23_3x3_banner_v2.png?1692043218,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/710/thumb/logo_100.png?1690921034,HackHarvard,Oct 20th - 22nd,"Cambridge,Massachusetts",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/725/thumb/Ihack-Vertical-Logo-FullColor-72DPI.png?1692984938,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/725/thumb/Ihack-Vertical-Logo-FullColor-Small.png?1692984937,I-Hack,Oct 20th - 21st,"Rexburg,Idaho",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/761/thumb/event-hero-image.jpg?1696351646,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/761/thumb/Icon.png?1696351646,All In Hackathon,Oct 21st - 22nd,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/709/thumb/HD2_Backsplash_MLH-4.png?1689972265,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/709/thumb/Plain_Black_Official_HD2_Logo_100x100px.png?1689972263,Hack Dearborn,Oct 21st - 22nd,"Dearborn,Michigan",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/737/thumb/Larger_Art.png?1695649130,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/737/thumb/Smaller_Logo.PNG?1695649129,HackPSU,Oct 21st - 22nd,"StateCollege,PA",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/649/thumb/mlh_backsplash_%281%29.png?1693316066,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/649/thumb/mlh_logo_%281%29.png?1693316066,HackTX 2023,Oct 21st - 22nd,"Austin,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/726/thumb/Instagram_post_-_2.png?1693256238,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/726/thumb/logo_MLH_square_background-01.png?1693256237,Technica Hacks,Oct 21st - 22nd,"CollegePark,Maryland","Hybrid, In-Person Focus"
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/674/thumb/Hackanile_Cal_Hacks.png?1688401253,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/674/thumb/Hackanile_Cal_Hacks.png?1688401253,Cal Hacks,Oct 27th - 29th,"Berkeley,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/738/thumb/HackNC_Logo.jpg?1694612461,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/738/thumb/HackNC_Logo.jpg?1694612459,HackNC 2023,Oct 27th - 29th,"ChapelHill,NC",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/724/thumb/social-instagram.jpg?1695915874,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/724/thumb/event-icon.jpg?1695915874,Web3Apps,Oct 27th - 29th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/660/thumb/WhatsApp_Image_2023-08-25_at_9.28.44_AM.jpeg?1693562908,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/660/thumb/WhatsApp_Image_2023-09-01_at_3.39.27_PM.jpeg?1693563115,GreatUniHack 2023,Oct 28th - 29th,"Manchester,Lancashire",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/655/thumb/20230628_185120_0000.png?1687959383,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/655/thumb/20230628_185006_0000.png?1687959383,Hack The Mountains 4.O,Oct 28th - 29th,"Gurgaon,Haryana,IN",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/748/thumb/Datathon23_Logo_300x300.png?1695648882,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/748/thumb/Datathon23_Logo_100x100.png?1695648882,TAMU Datathon,Oct 28th - 29th,"CollegeStation,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/739/thumb/VHXBacksplash.png?1696423223,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/739/thumb/VHXLogo.png?1696423223,VandyHacks,Oct 28th - 29th,"Nashville,Tennessee",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/807/thumb/BANNER.png?1698333421,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/807/thumb/LOGO.png?1698333794,REVA HACK 2023,Nov 2nd - 4th,"Bengaluru,Karnataka,IN",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/639/thumb/DandyHacks_backsplash.png?1687276484,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/639/thumb/DandyHacks_logo.png?1687276483,DandyHacks,Nov 3rd - 5th,"Rochester,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/758/thumb/event-splash-2560x1440.png?1696344382,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/758/thumb/hackkstate-logo-100x100.png?1696344380,Hack K-State,Nov 3rd - 5th,"Manhattan,Kansas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/763/thumb/fountainGreen-2022.png?1696967895,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/763/thumb/fountainGreen-2022.png?1696967895,YCP Hacks,Nov 3rd - 5th,"York,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/799/thumb/background.png?1696621256,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/799/thumb/background.png?1696621256,DurHack 2023,Nov 4th - 5th,"Durham,CountyDurham",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/744/thumb/hackCBS_6.0_vector.png?1695138659,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/744/thumb/6.0.png?1695138659,hackCBS,Nov 4th - 5th,"Delhi,India",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/753/thumb/HackNJIT_2_MLH_Backsplash.png?1698336062,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/753/thumb/HackNJIT2023_logo_main.png?1698336061,HackNJIT,Nov 4th - 5th,"Newark,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/638/thumb/backsplash_2.png?1687276185,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/638/thumb/hackrpi_logo_%28100x100%29.png?1687276185,HackRPI,Nov 4th - 5th,"Troy,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/762/thumb/Logo_Remix__Color__1.png?1696357693,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/762/thumb/Logo_Remix__Color__1.png?1696357693,HackSC-X,Nov 4th - 5th,"LosAngeles,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/800/thumb/background.png?1696621287,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/800/thumb/background.png?1696621287,Hack-the-Heights,Nov 4th - 5th,"Newton,Massachusetts",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/719/thumb/FINAL_TITLE.png?1692812811,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/719/thumb/Logo-Dark.png?1692048909,HackUTD,Nov 4th - 5th,"Dallas,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/795/thumb/make-a-ton-mlh-icon-2_1.png?1696607979,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/795/thumb/make-a-ton-mlh-icon.png?1696607979,Make-a-Ton 6.0,Nov 4th - 5th,"Kochi,Kerala",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/750/thumb/300x300_background.png?1695993460,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/750/thumb/100px_square_logo.jpg?1695993460,MakeUC,Nov 4th - 5th,"Cincinnati,Ohio",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/672/thumb/IEEE_Logo.png?1689610476,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/672/thumb/NewHacks_Logo.png?1688399919,NewHacks,Nov 4th - 5th,"Toronto,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/752/thumb/Screenshot_2023-10-26_at_12.03.32_PM.png?1698336226,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/752/thumb/Screenshot_2023-10-26_at_12.03.13_PM.png?1698336225,sunhacks,Nov 4th - 5th,"Tempe,Arizona",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/764/thumb/f23_logo_button.00e991c1ce67.png?1698363603,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/764/thumb/f23_logo_button.00e991c1ce67.png?1698363601,UB Hacking,Nov 4th - 5th,"Buffalo,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/659/thumb/WHACK_banner__1_.png?1698459135,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/659/thumb/WHACK_logo_100_100__1_.png?1698459135,WHACK,Nov 4th - 5th,"Wellesley,Massachusetts",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/731/thumb/IG.jpg?1697059401,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/731/thumb/icon.png?1694528975,Global Hack Week: Career,Nov 10th - 16th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/755/thumb/HackPrinceton-Background.png?1696307869,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/755/thumb/HackPrinceton-Logo-Square.png?1696307869,HackPrinceton,Nov 10th - 12th,"Princeton,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/756/thumb/Logo_-_Picture_Back_300x300.png?1698459004,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/756/thumb/Logo_-_Black_100x100.png?1698459004,HackUMass,Nov 10th - 12th,"Amherst,Massachusetts",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/806/thumb/MLH_BackSplash.png?1698329574,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/806/thumb/MLH_HackSheffield8_Logo.png?1698329573,Hackathon Sheffield 8,Nov 11th - 12th,"Sheffield,SouthYorkshire,UK",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/757/thumb/Untitled_design_%2817%29.png?1699480890,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/757/thumb/Untitled_design_%2817%29.png?1699480888,HackUNT,Nov 11th - 12th,"Denton,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/759/thumb/Untitled_design_%2816%29.png?1696344717,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/759/thumb/Untitled_design_%2816%29.png?1696344716,MadHacks,Nov 11th - 12th,"Madison,Wisconsin",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/760/thumb/image0.jpeg?1696963679,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/760/thumb/image1.jpeg?1696963674,AI ATL,Nov 17th - 19th,"Atlanta,Georgia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/805/thumb/Banner_3X3_UniHack_5.png?1697802745,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/805/thumb/LOGO_100x100.png?1697802744,UniHack 5,Nov 17th - 19th,"Timișoara,județulTimiș,Romania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/664/thumb/MLH_Preview-2.pdf.png?1695648221,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/664/thumb/unnamed.jpg?1695648262,BostonHacks,Nov 18th - 19th,"Boston,Massachusetts",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/745/thumb/squareBacksplash.png?1697210316,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/745/thumb/100x100_Logo.png?1697210316,MHacks,Nov 18th - 19th,"AnnArbor,Michigan",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/661/thumb/_1656603159928_300x300.png?1688386773,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/661/thumb/Hack_Western_10_-_f2023_-_Event_Vector_Logo_%28AI__SVG__EPS__or_PSD%29.svg_xml.png?1687956689,Hack Western 10,Nov 24th - 26th,"London,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/742/thumb/devpost-thumbnail.jpg?1696596693,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/742/thumb/event-icon.jpg?1696596693,Web3Apps,Nov 24th - 26th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/808/thumb/HS23_MLH_EventBackground300x300MLH.png?1698331642,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/808/thumb/HackSussex-Circle-White-Trans_%28Custom%29.png?1698331642,HackSussex GameJam,Nov 25th - 26th,"Brighton,EastSussex",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/732/thumb/Dec-generic_IG.png?1694529226,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/732/thumb/icon.png?1694529225,Global Hack Week: Cloud,Dec 4th - 11th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/840/thumb/devpost-thumbnail_%281%29.png?1701788063,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/840/thumb/event-icon.jpg?1701787382,All In Open Source Hackathon,Dec 16th - 17th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/804/thumb/event-hero-image.jpg?1697732691,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/804/thumb/event-icon.jpg?1697732691,Web3Apps,Dec 29th - 31st,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/815/thumb/IG_%288%29.jpg?1701900236,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/815/thumb/hero-without-BG_%282%29.png?1701900234,Global Hack Week: Beginners,Jan 5th - 11th,"Everywhere,Online",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/837/thumb/Bre%CC%81beufHx_logo.png?1701468982,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/837/thumb/Bre%CC%81beufHx_logo.png?1701468982,BrébeufHx 7.0,Jan 12th - 13th,"Montreal,Quebec",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/818/thumb/logo_glitch.png?1701661277,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/818/thumb/logo_glitch.png?1701661277,SB Hacks,Jan 12th - 14th,"Goleta,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/827/thumb/backgroundshehacks.png?1702274911,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/827/thumb/shehacks_logo.png?1702274910,SheHacks+,Jan 12th - 14th,"London,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/838/thumb/DH10_MLH_Icon.png?1701469019,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/838/thumb/DeltaHacksXlogo.png?1701469018,DeltaHacks,Jan 13th - 14th,"Hamilton,Ontario,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/809/thumb/hackfree_back.png?1698334700,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/809/thumb/hackfreelogo.png?1698334699,HackFRee,Jan 13th - 14th,"Englishtown,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/823/thumb/main_logo_%282%29.png?1701459212,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/823/thumb/main_logo_%282%29.png?1701459210,BoilerMake XI,Jan 19th - 21st,"WestLafayette,Indiana",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/839/thumb/CruzHacks_2024_Logo.jpeg?1701708988,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/839/thumb/CruzHacks_2024_Logo.jpeg?1701708987,CruzHacks,Jan 19th - 21st,"SantaCruz,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/836/thumb/background.png?1701468933,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/836/thumb/LOGO_%281%29.png?1701468933,Hackville 2024,Jan 19th - 21st,"Mississsauga,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/820/thumb/Logo_Banner.png?1701662390,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/820/thumb/Logo_Brick.png?1701662390,Rice Datathon 2024,Jan 19th - 21st,"Houston,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/835/thumb/Backsplash-Poster-300x300.png?1701469036,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/835/thumb/Logo-100x100-color.png?1701469036,Techacks 4.0,Jan 19th - 21st,"Rajpura,Punjab",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/875/thumb/social-instagram.png?1703156664,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/875/thumb/event-icon.png?1703156664,Web3Apps,Jan 19th - 21st,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/833/thumb/HackConcordia_ConUHacksVIII_MLH_background_banner.png?1703892717,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/833/thumb/Screenshot_2023-12-01_at_5.13.20_PM.png?1701468868,ConUHacks VIII,Jan 20th - 21st,"Montreal,Quebec",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/834/thumb/bg_splash_2650x1440.png?1701709562,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/834/thumb/frost_hacks_vector_png_logo.png?1701709562,Frost Hacks,Jan 20th - 21st,"Hyderabad,India",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/633/thumb/nwHacks_2024_event_background_square.png?1701402731,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/633/thumb/nwHacks_2024_event_logo_square.png?1701402731,nwHacks,Jan 20th - 21st,"Vancouver,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/832/thumb/mlh.io_banner__1_.png?1701469067,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/832/thumb/roselogo.png?1701469066,Rose Hack,Jan 20th - 21st,"Riverside,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/831/thumb/Copy_of_UTRA_ECF_Display.png?1701709477,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/831/thumb/Copy_of_UTRA_Logo_Chrome.png?1701709475,UTRA Hacks,Jan 20th - 21st,"Toronto,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/648/thumb/hoyabacksplash.png?1687371753,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/648/thumb/hoyadog.png?1687371753,HoyaHacks,Jan 26th - 28th,"Washington,DistrictofColumbia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/830/thumb/Uof-THacks-11-BGBanner.png?1701709180,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/830/thumb/UofTHacks_-_s2024_-_Event_Logo_Square_%28100px_by_100px%29.png?1701709177,UofTHacks,Jan 26th - 28th,"Toronto,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/826/thumb/Gunnhacks_logo_%282%29.png?1701459888,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/826/thumb/Gunnhacks_logo_%282%29.png?1701459888,Gunnhacks 10.0,Jan 27th - 28th,"PaloAlto,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/825/thumb/school.jpg?1701459745,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/825/thumb/hackbi_logo_%281%29.png?1701459745,Hack BI VII,Jan 27th - 28th,"Alexandria,Virginia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/819/thumb/hacktamslogo2024temp.jpeg?1701835142,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/819/thumb/hacktamslogo2024temp.jpeg?1701835141,hackTAMS,Jan 27th - 28th,"Denton,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/829/thumb/backsplash_%281%29.png?1701462327,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/829/thumb/icon_%281%29.png?1701462327,McHacks,Jan 27th - 28th,"Montreal,Quebec",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/817/thumb/pechacks-banner.png?1701665560,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/817/thumb/favicon.png?1701458544,PEC Hacks,Jan 27th - 28th,"Chennai,TamilNadu",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/906/thumb/Screenshot_2024-01-22_at_10.42.42_AM.png?1705938187,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/906/thumb/Screenshot_2024-01-22_at_10.42.06_AM.png?1705938187,Royal Hackaway v7,Jan 27th - 28th,"London,UnitedKingdom",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/811/thumb/SH9-Event-Background.png?1700065079,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/811/thumb/SH9-Logo-Square.png?1700065079,SpartaHack 9,Jan 27th - 28th,"EastLansing,Michigan",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/824/thumb/tamuhack_splash.png?1701459425,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/824/thumb/tamuhack_icon.png?1701459424,TAMUhack,Jan 27th - 28th,"CollegeStation,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/905/thumb/RTC_BlackWingsHacks_Background.png?1705679542,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/905/thumb/RTC_BlackWingsHacks_Logo.png?1705679542,Black Wings Hacks 2024,Feb 2nd - 4th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/810/thumb/Hack_Davidson_word_Robotic_%281%29.png?1699563047,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/810/thumb/Hack_Davidson_logo_Robotic_%281%29_%281%29.png?1699563047,Hack@Davidson,Feb 2nd - 4th,"Davidson,NorthCarolina",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/881/thumb/QHacksLogo_WhiteBG_%281%29.jpg?1703581880,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/881/thumb/QHacksLogo_WhiteBG_%281%29.jpg?1703581880,QHacks,Feb 2nd - 4th,"Kingston,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/888/thumb/Screenshot_2024-01-30_at_9.49.28_AM.png?1706626374,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/888/thumb/Screenshot_2024-01-30_at_9.48.28_AM.png?1706626374,QWER Hacks 2024,Feb 2nd - 4th,"LosAngeles,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/878/thumb/Change_the_colors___Add_your_logo!_%2853%29.png?1703581605,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/878/thumb/Change_the_colors___Add_your_logo!_%2854%29.png?1703581605,Auburn Hacks,Feb 3rd - 4th,"Auburn,Alabama",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/877/thumb/MLH_Event_Banner.png?1703575338,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/877/thumb/MLH_Event_Logo.png?1703575338,Diversion 2K24,Feb 3rd - 4th,"Kolkata,WestBengal",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/814/thumb/MLH_Background.png?1700576339,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/814/thumb/MLH_Logo.png?1700576338,Hack@Brown,Feb 3rd - 4th,"Providence,RhodeIsland",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/894/thumb/418430712_391565603533985_7461897475006443736_n.jpg?1705098778,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/894/thumb/Screenshot_2024-01-12_at_5.31.13_PM.png?1705098778,Hack_NCState 2024,Feb 3rd - 4th,"Raleigh,NorthCarolina",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/903/thumb/HackViolet-Logo-Background-Transparent__2_.png?1704811842,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/903/thumb/HackViolet-Logo-Background-Transparent__2_.png?1704811842,HackViolet,Feb 3rd - 4th,"Blacksburg,Virginia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/884/thumb/miniature_carree_100x100_2.png?1703582458,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/884/thumb/miniature_carree_100x100_2.png?1703582458,PolyHacks,Feb 3rd - 4th,"Montreal,Quebec",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/816/thumb/IG_%283%29.jpg?1701193756,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/816/thumb/icon_%288%29.png?1701193756,Global Hack Week: AI/ML,Feb 9th - 15th,"Everywhere,Online",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/656/thumb/banner.png?1703708539,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/656/thumb/Hacklytics_2024_Logo.png?1702607898,Hacklytics,Feb 9th - 11th,"Atlanta,Georgia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/654/thumb/WhatsApp_Image_2023-06-28_at_6.38.12_PM.jpeg?1687957950,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/654/thumb/WhatsApp_Image_2023-06-28_at_6.38.02_PM.jpeg?1687957950,Hack This Fall 4.0,Feb 9th - 11th,"Gandhinagar,Gujarat",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/885/thumb/SBUHacks_Backsplash-01.png?1705126042,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/885/thumb/SBUHacks_Logo-01.png?1705126042,SBUHacks,Feb 9th - 11th,"StonyBrook,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/651/thumb/Event_Splash.png?1688046177,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/651/thumb/Event_Logo_Square.png?1687788980,UGAHacks 9,Feb 9th - 11th,"Athens,Georgia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/650/thumb/logo.png?1704816210,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/650/thumb/logo.png?1704816210,Hacklahoma,Feb 10th - 11th,"Norman,Oklahoma",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/895/thumb/banner_300x300.png?1705098577,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/895/thumb/deerhacks-deer_100x100.png?1705098576,DeerHacks III,Feb 16th - 18th,"Mississauga,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/900/thumb/EH_24_-_MLH_Backsplash.png?1706023113,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/900/thumb/EH_2024_Logo_%28White_Background%29.PNG?1706023105,ElleHacks 2024,Feb 16th - 18th,"Toronto,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/876/thumb/devpost-thumbnail.png?1703157543,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/876/thumb/event-icon.png?1703157543,Web3Apps,Feb 16th - 18th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/879/thumb/cch24_simple_emblem_d2_%282%29.png?1703581742,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/879/thumb/cch24_simple_emblem_d2_%282%29.png?1703581742,CrimsonCode 2024,Feb 17th - 18th,"Pullman,Washington",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/887/thumb/backdrop_2024.png?1703777381,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/887/thumb/Logo_Sticker_2024__2_.png?1703777380,Hack(H)er413,Feb 17th - 18th,"Amherst,Massachusetts",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/893/thumb/Banner.jpg?1706123845,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/893/thumb/hacktcnj24logo.png?1706123844,Hack TCNJ,Feb 17th - 18th,"Ewing,NewJersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/890/thumb/Untitled_design.png?1704813769,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/890/thumb/Untitled_design.png?1704813769,MakeUofT 2024,Feb 17th - 18th,"Toronto,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/901/thumb/hackbeanpot-logo-white-14f9186b7c731166bffd4416f3ce0684.png?1708445468,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/901/thumb/HackBeanpot_-_s2024_-_Event_Logo_Square_%28100px_by_100px%29.png?1708445895,HackBeanpot,Feb 23rd - 25th,"Boston,MA",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/902/thumb/MLH_300x300.png?1706124027,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/902/thumb/MLH_100x100.png?1706124027,BrickHack X,Feb 24th - 25th,"Rochester,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/892/thumb/NSBE_HACKS.jpg?1705097926,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/892/thumb/nsbehacks_2024__logo.png?1705097926,NSBEHacks 2024,Feb 24th - 25th,"Toronto,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/883/thumb/square_%281%29.png?1704900347,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/883/thumb/100x100.png?1703582060,Pearl Hacks,Feb 24th - 25th,"ChapelHill,NorthCarolina",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/897/thumb/backsplash2.jpg?1705180055,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/897/thumb/Logo_%281%29.jpg?1705098269,RevolutionUC,Feb 24th - 25th,"Cincinnati,Ohio",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/880/thumb/MLH_web_banner.png?1703795359,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/880/thumb/MLH_web_logo.png?1703795359,RowdyHacks,Feb 24th - 25th,"SanAntonio,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/916/thumb/CEWIT-Revised_4C_CMYK_OUTLINED.png?1707107892,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/916/thumb/CEWIT-Revised_4C_CMYK_OUTLINED.png?1707107892,Hack@CEWIT,Mar 1st - 3rd,"StonyBrook,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/925/thumb/Backsplash.png?1707247625,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/925/thumb/logo.png?1707247625,uOttaHack,Mar 1st - 3rd,"Ottawa,Ontario",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/929/thumb/athenabacksplash1.png?1708104160,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/929/thumb/athenalogo_1.png?1708104159,AthenaHacks,Mar 2nd - 3rd,"LosAngeles,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/918/thumb/CUhackit_RGB_Full_Bug_Color_PREFERRED__1_.png?1707108201,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/918/thumb/CUhackit_RGB_Full_Bug_Color_PREFERRED__1_.png?1707108200,CUhackit 2024,Mar 2nd - 3rd,"Clemson,SouthCarolina",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/910/thumb/HNlogo_black.png?1707107354,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/910/thumb/HNlogo_black.png?1707107353,HackNITR 5.0,Mar 2nd - 3rd,"Rourkela,Odisha",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/917/thumb/htblogo.png?1707108039,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/917/thumb/htblogo.png?1707108037,HackTheBurgh,Mar 2nd - 3rd,"Edinburgh,UK",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/909/thumb/Backsplash.png?1707336261,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/909/thumb/Logo_%284%29.png?1707107302,HenHacks,Mar 2nd - 3rd,"Newark,Delaware",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/912/thumb/Screenshot_2024-02-04_233204.png?1707107551,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/912/thumb/Screenshot_2024-02-04_233204.png?1707107551,InnovateHER Hackathon,Mar 2nd - 3rd,"WestLafayette,Indiana",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/908/thumb/MLH_Backsplash.png?1706123702,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/908/thumb/MLH_logo.png?1706123702,WiCHacks,Mar 2nd - 3rd,"Rochester,NewYork",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/927/thumb/spec_logo-Da0CixX7.png?1708561051,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/927/thumb/spec_logo-Da0CixX7.png?1708561051,Electrothon: Sorcerers of cipher,Mar 8th - 10th,"Hamirpur,HimachalPradesh",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/841/thumb/IG_%2810%29.jpg?1702312177,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/841/thumb/icon_%289%29.png?1702306299,Global Hack Week: Games,Mar 8th - 14th,"Everywhere,Online",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/922/thumb/MercedTower.png?1708561250,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/922/thumb/hmIXlogo.png?1708561250,HackMerced IX,Mar 8th - 10th,"Merced,California",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/943/thumb/social-instagram.png?1708518012,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/943/thumb/event-icon.jpg?1708439756,All In Open Source Hackathon,Mar 9th - 10th,"Everywhere,Worldwide",Digital Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/671/thumb/cmd-f_2024_Event_Background_Square.png?1688045252,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/671/thumb/cmd-f_2024_Event_Logo_Square.png?1688045252,cmd-f,Mar 9th - 10th,"Vancouver,Canada",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/904/thumb/cCmN1NTx_400x400.jpg?1705527107,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/904/thumb/cCmN1NTx_400x400.jpg?1705527107,GrizzHacks,Mar 9th - 10th,"RochesterHills,Michigan",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/914/thumb/MicrosoftTeams-image_%281%29.png?1708542832,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/914/thumb/MicrosoftTeams-image_%281%29.png?1708542832,HackPSU,Mar 16th - 17th,"StateCollege,Pennsylvania",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/940/thumb/FHbackdrop_%281%29.png?1708115467,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/940/thumb/FHlogo_%281%29.png?1708115467,FormulaHacks,Mar 22nd - 23rd,"Austin,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/919/thumb/image002.png?1708099375,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/919/thumb/6543f13d9cb240029d6292d8_logo-transparant-p-500.png?1707108319,HackTheChains,Mar 22nd - 24th,"Dallas,Texas",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/213/005/thumb/Screenshot_2024-03-18_at_10.29.30%E2%80%AFAM.png?1710772252,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/213/005/thumb/Screenshot_2024-03-18_at_10.29.56%E2%80%AFAM.png?1710772252,HackRU Spring,Mar 23rd - 24th,"Piscataway,Newjersey",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/915/thumb/logo-name-stacked-color.png?1709229922,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/915/thumb/owl-outline-color_-_Copy.png?1709229875,HooHacks,Mar 23rd - 24th,"Charlottesville,Virginia",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/911/thumb/logo-large.png?1707505931,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/911/thumb/logo-large.png?1707505931,Uncommon Hacks,Mar 23rd - 24th,"Chicago,Illinois",In-Person Only
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/212/632/thumb/23_24Logo.png?1706723396,https://s3.amazonaws.com/assets.mlh.io/events/logos/000/212/632/thumb/23_24LogoWYear.png?1706723287,WEHack,Mar 23rd - 24th,"Dallas,Texas",In-Person Only
