@@ -1,14 +1,16 @@
 package main
 
 import (
-	"encoding/csv"
 	"fmt"
+	"os"
+
+	"encoding/csv"
 	"log"
 	"net/url"
-	"os"
 	"regexp"
 
 	"github.com/gocolly/colly"
+	"github.com/joho/godotenv"
 )
 
 type HackathonEvent struct {
@@ -17,6 +19,17 @@ type HackathonEvent struct {
 
 func main() {
 
+	fmt.Println("Start scraping the website")
+
+	// Load the .env file
+	godotenv.Load()
+
+	APIKey := os.Getenv("Proxy_API_KEY")
+
+	if APIKey == "" {
+		log.Fatal("Proxy_API_KEY is not found")
+	}
+
 	c := colly.NewCollector()
 
 	MLH_event_website := "https://mlh.io/seasons/2024/events"
@@ -24,11 +37,6 @@ func main() {
 	// an array to keep all hackathon event
 	// var hackathonEvents []HackathonEvent
 	hackathonEvents := []HackathonEvent{}
-
-	// Testing purpose: print out the HTML text
-	// c.OnResponse(func(r *colly.Response) {
-	// 	fmt.Println(string(r.Body))
-	// })
 
 	// print error when some is wrong
 	c.OnError(func(_ *colly.Response, err error) {
@@ -72,7 +80,7 @@ func main() {
 
 	// Add Query Parameters (api_key and url) and perform URL encoding such as adding %20
 	q := websiteURL.Query()
-	q.Set("api_key", "8a49e4a8-103a-41cc-9a13-e6afe2004745")
+	q.Set("api_key", APIKey)
 	q.Set("url", MLH_event_website)
 	websiteURL.RawQuery = q.Encode()
 
@@ -122,5 +130,5 @@ func main() {
 
 	defer writer.Flush() // clean up the writer buffered data
 
-	fmt.Println(hackathonEvents[0])
+	fmt.Println("Finish scraping the website")
 }
