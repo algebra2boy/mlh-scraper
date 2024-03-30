@@ -55,28 +55,11 @@ func readFromCSV(fileName string) []HackathonEvent {
 	return hackathonsEvents
 }
 
-func sortByDate(hackathons []HackathonEvent) []HackathonEvent {
-
-	// sort the hackathons in chronological order
-
-	return []HackathonEvent{}
-}
-
 func getAllHackathonEvents(c *gin.Context) {
 
 	hackathonEvents := readFromCSV("../hackathons_2024.csv")
 
 	c.IndentedJSON(200, hackathonEvents)
-
-}
-
-func getSortedHackathonEvents(c *gin.Context) {
-
-	hackathonEvents := readFromCSV("../hackathons_2024.csv")
-
-	sortedEvents := sortByDate(hackathonEvents)
-
-	c.IndentedJSON(200, sortedEvents)
 
 }
 
@@ -90,7 +73,6 @@ func main() {
 	})
 
 	router.GET("/api/hackathons", getAllHackathonEvents)
-	router.GET("/api/hackathons/sort", getSortedHackathonEvents)
 
 	err := router.Run("localhost:8080")
 	if err != nil {
