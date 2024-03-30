@@ -14,7 +14,8 @@ type HackathonEvent struct {
 	LogoUrl      string `json:"logoUrl"`
 	Name         string `json:"name"`
 	Date         string `json:"date"`
-	Location     string `json:"location"`
+	City         string `json:"city"`
+	State        string `json:"state"`
 	EventType    string `json:"eventType"`
 }
 
@@ -47,8 +48,9 @@ func readFromCSV(fileName string) []HackathonEvent {
 			LogoUrl:      record[1],
 			Name:         record[2],
 			Date:         record[3],
-			Location:     record[4],
-			EventType:    record[5],
+			City:         record[4],
+			State:        record[5],
+			EventType:    record[6],
 		})
 	}
 

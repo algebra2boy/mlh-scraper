@@ -8,14 +8,13 @@ import (
 	"encoding/csv"
 	"log"
 	"net/url"
-	"regexp"
 
 	"github.com/gocolly/colly"
 	"github.com/joho/godotenv"
 )
 
 type HackathonEvent struct {
-	thumbnailUrl, logoUrl, name, date, location, eventType string
+	thumbnailUrl, logoUrl, name, date, city, state, eventType string
 }
 
 func scrape(APIKey string, hackathonEvents []HackathonEvent) []HackathonEvent {
@@ -38,19 +37,19 @@ func scrape(APIKey string, hackathonEvents []HackathonEvent) []HackathonEvent {
 		// get the text instead of the attributes
 		name := e.ChildText("h3.event-name")
 		date := e.ChildText("p.event-date")
-		location := e.ChildText("div.event-location")
-		eventType := e.ChildText("div.event-hybrid-notes")
 
-		// need to remove the white space and new line in between the city and country
-		reg := regexp.MustCompile(`\s+`)                   // regular expression that matches any whitespace character
-		new_location := reg.ReplaceAllString(location, "") // replace whitespace character wtih empty string
+		city := e.ChildText("div.event-location > span[itemprop='city']")
+		state := e.ChildText("div.event-location > span[itemprop='state']")
+
+		eventType := e.ChildText("div.event-hybrid-notes")
 
 		hackathonEvent := HackathonEvent{
 			thumbnailUrl: thumbnailUrl,
 			logoUrl:      logoUrl,
 			name:         name,
 			date:         date,
-			location:     new_location,
+			city:         city,
+			state:        state,
 			eventType:    eventType,
 		}
 
@@ -93,7 +92,8 @@ func saveToCSV(filename string, hackathonEvents []HackathonEvent) {
 		"logoUrl",
 		"name",
 		"date",
-		"location",
+		"city",
+		"state",
 		"eventType",
 	}
 
@@ -109,7 +109,8 @@ func saveToCSV(filename string, hackathonEvents []HackathonEvent) {
 			event.logoUrl,
 			event.name,
 			event.date,
-			event.location,
+			event.city,
+			event.state,
 			event.eventType,
 		}
 
